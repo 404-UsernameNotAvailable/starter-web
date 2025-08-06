@@ -1,12 +1,12 @@
 #Starter Web Project
 Just learning Git, nothing to see here. Yet! :)
 ##Introduction
-Just for testing comparisons.
+Some dude who wanna be DevOps.
 ##Purpose
-Just to blow my brains out...
+Be best DevOps possible.
 ##Deployment
-Aaaaaand last one!
+Will happen.
 ##How To Contribute
-Please for this!!
+Praise me.
 ###Copyright
 MY TRAINING!
