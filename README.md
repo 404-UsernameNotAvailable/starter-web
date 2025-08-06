@@ -7,3 +7,6 @@ Just to blow my brains out...
 ##Deployment
 Aaaaaand last one!
 ##How To Contribute
+
+###Copyright
+MY TRAINING!
